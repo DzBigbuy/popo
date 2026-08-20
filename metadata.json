@@ -1,0 +1,6 @@
+{
+  "name": "Poki Games USA",
+  "description": "An instant, high-performance web gaming portal featuring classic and modern arcade games, real-time score tracking, achievements, and an interactive developer HTML/JS code lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
